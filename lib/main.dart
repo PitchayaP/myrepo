@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
               Card(
                 child: ListTile(
                     leading: Icon(Icons.cloud_download),
-                    title: Text('I Bet You Think About Me'),
+                    title: Text('I Bet You Think About Me.'),
                     trailing: Text('RED')),
               ),
             ],
